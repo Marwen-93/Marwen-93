@@ -1,12 +1,14 @@
 ### Hi there 👋
-
+As a mechanical engineer turned Python/Odoo developer, I bring a unique blend of technical expertise, problem-solving skills, and a strong team-oriented mindset to the field of software development. Although I have small knowledge in machine learning, deep learning, computer vision, Django, and Flask, I am eager to learn more and grow my skills in order to tackle complex software problems. My strong analytical abilities, coupled with my teamwork and team player skills, enable me to approach projects with a holistic perspective and work effectively in a team environment to deliver high-quality results. I am driven by a passion for using my skills to create innovative solutions that drive real-world impact. I am always eager to learn new technologies and thrive in fast-paced, dynamic environments. I am confident in my ability to deliver high-quality results for any project and look forward to connecting with potential collaborators and employers on LinkedIn :https://www.linkedin.com/in/marwen-weslati/
+- 🌱 I’m currently learning ... Javascript,Reactjs,Owl Framework 
+-🔭 I’m currently working as Python/Odoo Develope
+- 🤔 I’m looking for idea to mix between Odoo , AI , IOT 
 <!--
 **Marwen-93/Marwen-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
