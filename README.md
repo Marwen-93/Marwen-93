@@ -1,6 +1,14 @@
 ### Hi there 👋
-As a mechanical engineer turned Python/Odoo developer, I bring a unique blend of technical expertise, problem-solving skills, and a strong team-oriented mindset to the field of software development. Although I have small knowledge in machine learning, deep learning, computer vision, Django, and Flask, I am eager to learn more and grow my skills in order to tackle complex software problems. My strong analytical abilities, coupled with my teamwork and team player skills, enable me to approach projects with a holistic perspective and work effectively in a team environment to deliver high-quality results. I am driven by a passion for using my skills to create innovative solutions that drive real-world impact. I am always eager to learn new technologies and thrive in fast-paced, dynamic environments. I am confident in my ability to deliver high-quality results for any project and look forward to connecting with potential collaborators and employers on [LinkedIn](https://www.linkedin.com/in/marwen-weslati/) check my [Github profilio](https://github.com/Marwen-93/marwen_weslati) 
-- 🌱 I’m currently learning ... Javascript,Reactjs,Owl Framework 
+As a Python developer experienced in Odoo, Flask, Django, and FastAPI, I bring a unique blend of technical expertise, problem-solving skills, and a strong team-oriented mindset to the field of software development. Although my background is not in mechanical engineering, I have a solid foundation in machine learning, deep learning, and computer vision. I am constantly eager to learn and expand my knowledge in these areas to tackle complex software problems effectively.
+
+My strong analytical abilities, coupled with my teamwork and collaboration skills, enable me to approach projects with a holistic perspective and deliver high-quality results. I am driven by a passion for creating innovative solutions that have a real-world impact. Thriving in fast-paced and dynamic environments, I am always enthusiastic about learning new technologies.
+
+You can check my GitHub profile for examples of my work. I look forward to connecting with potential collaborators and employers on [LinkedIn](https://www.linkedin.com/in/marwen-weslati/).
+check my [Github profilio](https://github.com/Marwen-93/marwen_weslati) 
+
+
+
+- 🌱 I’m currently learning ... Fastapi flask
 -🔭 I’m currently working as Python/Odoo Develope
 - 🤔 I’m looking for idea to mix between Odoo , AI , IOT 
 <!--
